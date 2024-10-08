@@ -4,4 +4,4 @@ We collected data from 60000+ major LG subsidiaries (Display, Electronics, Life 
 
 We built a data classification model for company review data using human annotation + GPT annotation (fine-tuning, in-context learning). (Baseline) GPT-4o mini : 81% accuracy → fine-tune GPT-4o mini : 92% accuracy, (Baseline) GPT-4o : 76% accuracy → fine-tune GPT-4o 94% accuracy
 
-We succeeded in achieving higher performance than the baseline. After that, we proceeded to analyze companies through KOME (moral sentiment) + company review data classification model to derive insights.
+We succeeded in achieving higher performance than the baseline. After that, we proceeded to analyze companies through KOME (moral sentiment), KOTE(46 emotions) + company review data classification model to derive insights.
