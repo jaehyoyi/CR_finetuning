@@ -1,4 +1,6 @@
 # CR(Company Review)_Project
+
+## Abstract
 We started this project because we wanted to improve the organizational culture and satisfaction of employees by using generative AI to utilize external and internal data together. 
 We collected data from 60000+ major LG subsidiaries (Display, Electronics, Life Health, etc.) through data crawling from blind/job planet sites.
 
